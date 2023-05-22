@@ -1,0 +1,38 @@
+![image](https://user-images.githubusercontent.com/88606122/134459925-52dc07d3-6ec7-4cf0-bf6d-a2caf2aa4e12.png)
+
+                 UNIVERSIDAD DON BOSCO
+
+                  FACULTAD DE INGENIERÍA
+                  ESCUELA DE COMPUTACIÓN
+        DATAWAREHOUSE Y MINERÍA DE DATOS DMD941 G01T
+
+                        ACTIVIDAD
+                        FASE No.1
+
+                   TEMA DEL PROYECTO:
+          PRESENTACIÓN DE ANTEPROYECTO DE UN
+        SISTEMA DE INTELIGENCIA DE NEGOCIO, QUE
+        DEBERÁ CONTENER LOS SIGUIENTES PUNTOS:
+        DETERMINACIÓN DE REQUISITOS DE CLIENTES
+         MEDIANTE LA PRESENTACIÓN DE OBJETIVOS,
+         MARCO TEÓRICO, ANTECEDENTES, SITUACIÓN
+          ACTUAL, METODOLOGÍA, FORMULACIÓN DEL
+         PROBLEMA, FACTIBILIDAD, JUSTIFICACIÓN,
+          IMPORTANCIA, ALCANCES, LIMITACIONES,
+        CRONOGRAMA DE ACTIVIDADES, PLANIFICACIÓN
+             DE RECURSOS Y RECOMENDACIONES Y
+                    BIBLIOGRAFÍA.
+
+                         DOCENTE:
+              ING. HERSON MIGUEL SERRANO CHACÓN
+
+      ALUMNOS:                                       CARNET:
+      CAMPOS LANDAVERDE, JESUS ALEJANDRO            CL212345
+      CRUZ MEJÍA, JOSUÉ ESAÚ                        CM221973
+      DRIOTIS CRUZ, DAVID OTONIEL                   DC211280
+      FLORES QUINTANILLA, ROBERTO CARLOS            FQ211776
+      VILLEDA LÓPEZ, MIRIAM JANETH                  VL191443
+
+
+                     FECHA DE ENTREGA:
+              SOYAPANGO, 219 DE MAYO DE 2023
